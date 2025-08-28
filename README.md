@@ -32,13 +32,6 @@ This project is designed to demonstrate **SQL skills in data cleaning, explorati
 
 ---
 
-## Project Structure  
-
-
-This structure ensures separation of **data, scripts, and documentation**, making the project easy to follow.
-
----
-
 ## Process & Methodology  
 
 ### 1. **Database & Table Creation**  
